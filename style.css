@@ -1,37 +1,27 @@
 body {
-    font-family: sans-serif;
-}
-
-h1 {
     text-align: center;
-    font-size: 60px;
+font-size: 20px;
+color:rgb(27, 27, 27);
+font-family:cursive;
+background-image: url(https://i.pinimg.com/originals/41/31/ce/4131ce04784e1a19989337a1a1cb6e33.png);
+background-size: 100%;
+background-position:top;
 }
-
-h2{
-    font-size: 40px;
-    background-color: peru;
+.q{
+text-align: center;
+margin:0% 2% 3% 2%;
+border: 5px solid rgb(27, 27, 27);
+border-radius: 14px;
+background-color: white;
 }
-
-a {
-    color: black;
-    font-size: 20px;
+.cub{
+font-size: 25;
+color:tomato;
 }
-
-p, img {
-    border: 3px solid peru;
+.whater{
+font-size: 25;
+color:turquoise;
 }
-
-p, table {    
-    font-size: 20px;
-}
-
-table {
-    border: 1px solid peru;
-    background-color: lightyellow
-    text-align center
-    border-collapse;
-}
-
-td{
-    border: 1px solid brown
+h1{
+ font-size: 29px;
 }
