@@ -1,5 +1,5 @@
 
-body {
+body{
 text-align: center;
 font-size: 20px;
 color:rgb(27, 27, 27);
@@ -8,6 +8,7 @@ background-image: url(https://i.pinimg.com/originals/41/31/ce/4131ce04784e1a1998
 background-size: 100%;
 background-position:top;
 }
+
 .q{
 text-align: center;
 margin:0% 2% 3% 2%;
@@ -15,14 +16,17 @@ border: 5px solid rgb(27, 27, 27);
 border-radius: 14px;
 background-color: white;
 }
+
 .cub{
 font-size: 25;
 color:tomato;
 }
+
 .whater{
 font-size: 25;
 color:turquoise;
 }
+
 h1{
 font-size: 29px;
 }
